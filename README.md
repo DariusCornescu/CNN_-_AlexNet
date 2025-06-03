@@ -58,18 +58,11 @@ This Jupyter notebook explores **convolutional neural network** design by compar
 ---
 
 ## 🔧 Installation & Setup
-
-### Prerequisites
-- Python 3.8 or higher
-- NVIDIA GPU with CUDA 11+ and cuDNN (recommended)
-- 4GB+ RAM
-- 1GB+ available disk space
-
 ### Quick Start
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/DariusCornescu/CNN_-_AlexNet
    cd your-repo
    ```
 
